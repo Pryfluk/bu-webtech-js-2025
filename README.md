@@ -1,0 +1,2 @@
+- Nickname : Fluk
+- Favorites Food : Rice
